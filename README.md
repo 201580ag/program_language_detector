@@ -6,4 +6,4 @@
 ```pip install pygments```
 
 ## List of supported programming languages
-> Python, Java ,C ,C++ ,C# ,Ruby, JavaScript, TypeScript, PHP, Swift, Go, Rust, Kotlin, HTML, CSS, SQL, Shell(Bash), Perl, R, MATLAB
+> Python, Java ,C ,C++ ,C# ,Ruby, JavaScript, TypeScript, PHP, Swift, Go, Rust, Kotlin, HTML, CSS, SQL, Shell(Bash), Perl, R, MATLAB ...
